@@ -28,7 +28,7 @@ class Game(object):
 		
 		eat_it = raw_input("> ")
 		
-		if eat_it == "eat_it":
+		if eat_it == "eat it":
 			print "You explode like a pinata full of frogs."
 			print "The Princess cackles and eats the frogs. Yum!"
 			
